@@ -29,4 +29,4 @@ URL: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-fo
 ## 2. CLICK THE SUBMIT BUTTON 
 ## 3. TO DISPLAY THE OUPUT 
 ## SAMPLE OUTPUT PREVIEW
-
+![OUTPUT](https://user-images.githubusercontent.com/35831581/87870514-61382b00-c9c6-11ea-9990-3c8a9ad7c989.png)

@@ -10,6 +10,19 @@ There are three categories
 ## DATASET
 The dataset is taken from analytics vidya hackathon –banking completion
 URL: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/
+## ATTRIBUTES DESCRIPTION
+   1. Loan_amount_requested- The listed amount of the loan applied for by the borrower/ The loan amount you wish to apply for.
+   2. Length Employed-Employment length in years
+   3. home owner - The home ownership status provided. Values are: Rent, Own, Mortgage, Other.
+   4. income-verified- Indicates if income was verified, not verified, or if the income source was verified.
+   5. Purpose_Of_Loan- A category provided by the borrower for the loan request.
+   6. Debt_To_Income -A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, 
+    excluding mortgage and the requested loan, divided by the borrower’s self-reported monthly income.
+   7. Inquiries_Last_6Mo- The number of inquiries by creditors during the past 6 months.
+   8. Months_Since_Deliquency- The number of months since the borrower's last delinquency.
+   9. Number_Open_Accounts -The number of open credit lines in the borrower's credit file.
+   10. Total_Accounts- The total number of credit lines currently in the borrower's credit file
+   11. Gender- Gender.
 ## STEPS FOLLOWED
  ### 1. DATA PREPARATION
          I) HANDLED MISSING VALUES
@@ -30,19 +43,6 @@ URL: https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-fo
          Flask, HTML ,CSS 
 ## UI PREVIEW  
 ![screencapture-127-0-0-1-5000-2020-07-19-12_33_37](https://user-images.githubusercontent.com/35831581/87869388-17971280-c9bd-11ea-92c6-5f99c10d1973.png)
- ### ATTRIBUTES DESCRIPTION
-   1. Loan_amount_requested- The listed amount of the loan applied for by the borrower/ The loan amount you wish to apply for.
-   2. Length Employed-Employment length in years
-   3. home owner - The home ownership status provided. Values are: Rent, Own, Mortgage, Other.
-   4. income-verified- Indicates if income was verified, not verified, or if the income source was verified.
-   5. Purpose_Of_Loan- A category provided by the borrower for the loan request.
-   6. Debt_To_Income -A ratio calculated using the borrower’s total monthly debt payments on the total debt obligations, 
-    excluding mortgage and the requested loan, divided by the borrower’s self-reported monthly income.
-   7. Inquiries_Last_6Mo- The number of inquiries by creditors during the past 6 months.
-   8. Months_Since_Deliquency- The number of months since the borrower's last delinquency.
-   9. Number_Open_Accounts -The number of open credit lines in the borrower's credit file.
-   10. Total_Accounts- The total number of credit lines currently in the borrower's credit file
-   11. Gender- Gender.
 ## HOW IT WORKS
   ### 1. ENTER THE VALUES 
   ### 2. CLICK THE SUBMIT BUTTON 
